@@ -1,7 +1,8 @@
 name: "jo-wilkin"
+output_dir: "."
 navbar:
   title: ""
-  left:
+  right:
     - text: "Bio"
       href: index.html
     - text: "C.V"
@@ -10,10 +11,10 @@ navbar:
       href: research.html
     - text: "Teaching & Tutorials"
       href: teaching.html
-  right: 
-    - icon: fa-envelope
+  left: 
+    - icon: glyphicon-envelope
       href: mailto:<joannawilkin@gmail.com>
-    - icon: fa-github
+    - icon: glyphicon-globe
       href: http://github.com/jo-wilkin/
 output:
   html_document:
