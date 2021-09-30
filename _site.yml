@@ -1,0 +1,24 @@
+name: "jo-wilkin"
+navbar:
+  title: ""
+  left:
+    - text: "Bio"
+      href: index.html
+    - text: "C.V"
+      href: about.html
+    - text: "Research & Publications"
+      href: research.html
+    - text: "Teaching & Tutorials"
+      href: teaching.html
+  right: 
+    - icon: fa-envelope
+      href: mailto:<joannawilkin@gmail.com>
+    - icon: fa-github
+      href: http://github.com/jo-wilkin/
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
