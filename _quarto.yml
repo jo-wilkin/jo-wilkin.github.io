@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Joanna Wilkin"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: github
+        href: https://github.com/jo-wilkin
+      - icon: envelope
+        href: mailto:joanna.wilkin@ucl.ac.uk
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.css
+    toc: true

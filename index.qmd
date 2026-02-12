@@ -1,0 +1,26 @@
+---
+title: "Joanna Wilkin"
+image: img/me-pinnacles.jpeg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jo-wilkin
+    - icon: envelope
+      text: Email
+      href: mailto:joanna.wilkin@ucl.ac.uk
+---
+
+## About me
+
+I am a researcher and teaching fellow in the Department of Geography at University College London (UCL). My work focuses on transport geography, spatial data science, and GIS.
+
+## Education
+
+**PhD in Geography** | University College London | 2019–present
+
+**MSc in Geographic Information Science** | University College London
+
+**BA in Geography** | University of Cambridge

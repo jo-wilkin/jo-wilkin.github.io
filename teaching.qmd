@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+## Current teaching
+
+### GEOG0030: Geocomputation
+
+I contribute to [GEOG0030](https://osd.ucl.ac.uk/liveletters/GEOG0030), UCL's undergraduate module on geocomputation and spatial analysis using R.
+
+- [GEOG0030 Coursebook](https://jo-wilkin.github.io/GEOG0030-Coursebook/)
+
+### R GIS Tutorials
+
+A collection of R tutorials covering GIS topics including geocoding, network analysis, and greenspace accessibility.
+
+- [R GIS Tutorials](https://jo-wilkin.github.io/R-GIS-Tutorials/)
+
+### GIS & AI Manual
+
+A practical guide to using AI tools (including LLMs) for GIS and spatial analysis workflows.
+
+- [GIS AI Manual](https://jo-wilkin.github.io/gis_ai_manual/)

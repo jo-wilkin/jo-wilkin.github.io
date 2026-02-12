@@ -1,0 +1,18 @@
+---
+title: "Research"
+---
+
+## Research interests
+
+My research focuses on transport geography, urban mobility, and spatial data science. I am particularly interested in how spatial analysis and network methods can be applied to understand accessibility, travel behaviour, and urban systems.
+
+### Key themes
+
+- Transport and accessibility modelling
+- Spatial data science and GIS methods
+- Network analysis of urban systems
+- Active travel and sustainable transport
+
+## Publications
+
+*Coming soon.*

@@ -1,5 +1,0 @@
----
-title: "teaching"
-output: html_document
----
-

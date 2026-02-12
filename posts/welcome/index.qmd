@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+author: "Joanna Wilkin"
+date: "2026-02-12"
+---
+
+Welcome to my new website! I've rebuilt this site using [Quarto](https://quarto.org/) — a modern open-source scientific publishing system. I'll be using this blog to share updates on my research, teaching, and thoughts on spatial data science.
+
+Stay tuned for more posts.

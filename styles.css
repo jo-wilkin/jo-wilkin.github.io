@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,900;1,400&display=swap');
+
+$font-family-sans-serif: 'Noto Sans', sans-serif;
+$headings-font-family: 'Source Sans Pro', sans-serif;
+$link-color: #608c99;
+$link-hover-color: #7ba1ad;
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5, h6,
+.navbar-brand {
+  color: #608c99;
+}
+
+.navbar {
+  border-bottom: 2px solid #608c99;
+}
+
+.nav-link.active {
+  color: #608c99 !important;
+  font-weight: 600;
+}
+
+.about-image img {
+  border: 3px solid #b0ced8;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome\n\n\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nJoanna Wilkin\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my new website! I’ve rebuilt this site using Quarto — a modern open-source scientific publishing system. I’ll be using this blog to share updates on my research, teaching, and thoughts on spatial data science.\nStay tuned for more posts."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I contribute to GEOG0030, UCL’s undergraduate module on geocomputation and spatial analysis using R.\n\nGEOG0030 Coursebook\n\n\n\n\nA collection of R tutorials covering GIS topics including geocoding, network analysis, and greenspace accessibility.\n\nR GIS Tutorials\n\n\n\n\nA practical guide to using AI tools (including LLMs) for GIS and spatial analysis workflows.\n\nGIS AI Manual"
+  },
+  {
+    "objectID": "teaching.html#current-teaching",
+    "href": "teaching.html#current-teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "I contribute to GEOG0030, UCL’s undergraduate module on geocomputation and spatial analysis using R.\n\nGEOG0030 Coursebook\n\n\n\n\nA collection of R tutorials covering GIS topics including geocoding, network analysis, and greenspace accessibility.\n\nR GIS Tutorials\n\n\n\n\nA practical guide to using AI tools (including LLMs) for GIS and spatial analysis workflows.\n\nGIS AI Manual"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on transport geography, urban mobility, and spatial data science. I am particularly interested in how spatial analysis and network methods can be applied to understand accessibility, travel behaviour, and urban systems.\n\n\n\nTransport and accessibility modelling\nSpatial data science and GIS methods\nNetwork analysis of urban systems\nActive travel and sustainable transport"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on transport geography, urban mobility, and spatial data science. I am particularly interested in how spatial analysis and network methods can be applied to understand accessibility, travel behaviour, and urban systems.\n\n\n\nTransport and accessibility modelling\nSpatial data science and GIS methods\nNetwork analysis of urban systems\nActive travel and sustainable transport"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nComing soon."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Joanna Wilkin",
+    "section": "",
+    "text": "I am a researcher and teaching fellow in the Department of Geography at University College London (UCL). My work focuses on transport geography, spatial data science, and GIS."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Joanna Wilkin",
+    "section": "",
+    "text": "I am a researcher and teaching fellow in the Department of Geography at University College London (UCL). My work focuses on transport geography, spatial data science, and GIS."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Joanna Wilkin",
+    "section": "Education",
+    "text": "Education\nPhD in Geography | University College London | 2019–present\nMSc in Geographic Information Science | University College London\nBA in Geography | University of Cambridge"
+  }
+]
