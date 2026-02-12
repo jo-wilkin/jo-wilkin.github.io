@@ -1,11 +1,11 @@
 /*-- scss:defaults --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap');
 
-/* Palette: light beige background, burnt orange accents, black text */
+/* Palette: warm beige background, burnt orange accents, soft dark text */
 $body-bg: #faf6f1;
-$body-color: #1a1a1a;
+$body-color: #3b3b3b;
 $font-family-sans-serif: 'Source Sans Pro', sans-serif;
 $headings-font-family: 'Merriweather', serif;
 $headings-color: #1a1a1a;
@@ -13,68 +13,129 @@ $link-color: #c05e2e;
 $link-hover-color: #a04a1e;
 $navbar-bg: #faf6f1;
 $navbar-fg: #1a1a1a;
+$font-size-base: 1rem;
 
 /*-- scss:rules --*/
 
-/* Headings */
+/* ---- Global typography (inspired by Jekyll Serif) ---- */
+
+body {
+  line-height: 1.6;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+/* Headings: elegant normal-weight serif, not heavy */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: -0.01em;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
 }
 
 h1 {
-  border-bottom: 2px solid #c05e2e;
-  padding-bottom: 0.3em;
-  margin-bottom: 0.8em;
+  font-size: 2em;
+  font-weight: 400;
+  border-bottom: none;
+  padding-bottom: 0;
 }
 
-/* Navbar */
+h2 {
+  font-size: 1.5em;
+  color: #1a1a1a;
+}
+
+h3 {
+  font-size: 1.2em;
+  color: #3b3b3b;
+}
+
+/* Links: underline on hover like Serif */
+a {
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+li {
+  margin-bottom: 0.4em;
+  line-height: 1.6;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-bottom: 1px solid #e8e0d6;
+  margin: 2.5em 0;
+}
+
+/* ---- Navbar: clean, understated ---- */
+
 .navbar {
   border-bottom: none;
   font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 600;
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
 }
 
 .navbar-brand {
   font-family: 'Merriweather', serif;
-  font-weight: 700;
+  font-weight: 400;
+  font-size: 1.3em;
   color: #1a1a1a !important;
 }
 
 .nav-link {
-  color: #1a1a1a !important;
+  color: #3b3b3b !important;
+  font-weight: 400;
+  font-size: 1rem;
   transition: color 0.2s;
 }
 
 .nav-link:hover {
   color: #c05e2e !important;
+  text-decoration: underline;
 }
 
 .nav-link.active {
-  color: #c05e2e !important;
-  font-weight: 700;
-}
-
-/* About page profile image */
-.about-image img {
-  border: 3px solid #c05e2e;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* About page links (GitHub/Email buttons) */
-.about-link {
   color: #1a1a1a !important;
-  border-color: #c05e2e !important;
+  font-weight: 700;
+  text-decoration: none;
 }
 
-.about-link:hover {
-  background-color: #c05e2e !important;
-  color: #faf6f1 !important;
+/* ---- Profile photo: centered, modest size ---- */
+
+.profile-photo {
+  text-align: center;
+  margin: 0.5em 0 2em 0;
 }
 
-/* Blog listing cards */
+.profile-photo img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #c05e2e;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* ---- Content area: generous max-width ---- */
+
+.content {
+  max-width: 740px;
+}
+
+/* ---- Blog listing ---- */
+
 .quarto-listing-default .listing-title {
   font-family: 'Merriweather', serif;
+  font-weight: 400;
   color: #1a1a1a;
 }
 
@@ -82,38 +143,41 @@ h1 {
   color: #c05e2e;
 }
 
-/* Sidebar TOC */
-.sidebar nav[role=doc-toc] a {
-  color: #1a1a1a;
+/* ---- Blockquotes ---- */
+
+blockquote {
+  border-left: 3px solid #c05e2e;
+  padding-left: 1em;
+  color: #555;
+  font-style: italic;
 }
 
-.sidebar nav[role=doc-toc] a:hover,
-.sidebar nav[role=doc-toc] a.active {
-  color: #c05e2e;
-}
+/* ---- Code blocks ---- */
 
-/* Footer */
-.nav-footer {
-  border-top: 1px solid #e0d8cf;
-  background-color: #f4efe8;
-}
-
-/* Code blocks */
 pre {
   background-color: #f4efe8;
-  border: 1px solid #e0d8cf;
-  border-radius: 4px;
+  border: 1px solid #e8e0d6;
+  border-radius: 3px;
 }
 
-/* Blockquotes */
-blockquote {
-  border-left: 4px solid #c05e2e;
-  padding-left: 1em;
-  color: #444;
+/* ---- Footer ---- */
+
+.nav-footer {
+  border-top: 1px solid #e8e0d6;
+  background-color: transparent;
+  color: #888;
+  font-size: 0.9em;
 }
 
-/* Selection highlight */
+/* ---- Selection ---- */
+
 ::selection {
   background-color: #c05e2e;
   color: #faf6f1;
+}
+
+/* ---- Strong text: slightly darker for contrast ---- */
+
+strong {
+  color: #1a1a1a;
 }

@@ -33,11 +33,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-aac23c057d1ddd1401629fb221226caf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-60bcac207cc3adedd82cce17a08fd1e1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -127,20 +128,34 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="img/me-pinnacles.jpeg" class="about-image
-  round " style="height: 12em; width: 12em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Jo Wilkin</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
+  
+
+
+</header>
+
+
+<div class="profile-photo">
+<p><img src="img/me-pinnacles.jpeg" class="img-fluid"></p>
+</div>
 <p>Geographer and spatial data scientist, using Geographic Data Science “for good”. Based in the San Francisco Bay Area.</p>
 <p>Currently a Research Scientist at <a href="https://trackingcalifornia.org/">Tracking California</a> (Public Health Institute), applying spatial analysis to public health and environmental justice across California — from dataset curation to mapping tool development.</p>
 <section id="current-work" class="level2">
-<h2 data-anchor-id="current-work">Current work</h2>
+<h2 class="anchored" data-anchor-id="current-work">Current work</h2>
 <ul>
 <li>Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python</li>
 <li>R Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer</li>
@@ -148,40 +163,28 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="previously" class="level2">
-<h2 data-anchor-id="previously">Previously</h2>
+<h2 class="anchored" data-anchor-id="previously">Previously</h2>
 <p>Lecturer in Geographic and Social Data Science at UCL, teaching spatial analysis, geocomputation, and the ethics and politics of data science. Developed and led three modules across undergraduate and postgraduate programmes.</p>
 <p>PhD at the University of Southampton on creating geospatial datasets from Call Detail Records for humanitarian applications, mapping social networks and community resilience. Research with the WorldPop group and Flowminder Foundation. Presented at NetMob (Oxford) and Geo4Dev (UC Berkeley).</p>
 <p>Helped launch <a href="https://www.missingmaps.org/">The Missing Maps Project</a> in the UK, leading mapathons and developing training material still in use today. Presented at the Royal Geographical Society and Oxford Internet Institute. Creator of an award-winning Geography Programming Bootcamp teaching Python for GIS research.</p>
 </section>
 <section id="experience" class="level2">
-<h2 data-anchor-id="experience">Experience</h2>
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
 <p><strong>Research Scientist (Geospatial)</strong> | Tracking California, Public Health Institute | 2021–present</p>
 <p><strong>Lecturer in Social &amp; Geographic Data Science</strong> | UCL | 2020–2021</p>
 <p><strong>Teaching Fellow</strong> | UCL | 2020</p>
 <p><strong>PhD Researcher</strong> | University of Southampton | 2015–2020</p>
 </section>
 <section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
+<h2 class="anchored" data-anchor-id="education">Education</h2>
 <p><strong>PhD, Geographic Information Science</strong> | University of Southampton | 2015–2019</p>
 <p><strong>MSc, Geographical Information Management</strong> | Cranfield University | 2012–2013</p>
 <p><strong>BA, Geography (First Class)</strong> | University of Oxford | 2008–2011</p>
 
 
 </section>
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://github.com/jo-wilkin" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="mailto:joanna.wilkin@ucl.ac.uk" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -202,6 +205,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

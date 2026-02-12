@@ -1,18 +1,10 @@
 ---
 title: "Jo Wilkin"
-image: img/me-pinnacles.jpeg
-about:
-  template: jolla
-  image-width: 12em
-  image-shape: round
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/jo-wilkin
-    - icon: envelope
-      text: Email
-      href: mailto:joanna.wilkin@ucl.ac.uk
 ---
+
+::: {.profile-photo}
+![](img/me-pinnacles.jpeg)
+:::
 
 Geographer and spatial data scientist, using Geographic Data Science "for good". Based in the San Francisco Bay Area.
 
