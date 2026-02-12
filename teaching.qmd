@@ -2,22 +2,69 @@
 title: "Teaching"
 ---
 
-## Current teaching
+If you can't do, teach right? Not in my case. I have a huge passion for teaching. I've taught in some way or another for the last two decades. Most recently, since teaching myself to code during my PhD, I've tried to share this knowledge with my fellow Geographers, GISers, and more recently Public Healthers in a more non-technical, learner-focused friendly approach.
 
-### GEOG0030: Geocomputation
+It all started off with a [Geography Programming Bootcamp](https://soton-uni.maps.arcgis.com/apps/Cascade/index.html?appid=181217df845045cc9ae1930005bf31b5) that I wrote from scratch teaching Geography Undergraduates at the University of Southampton to code in Python, ArcPy and ArcGIS and for which I (and my awesome teammate Kate Rawlings) won the ESRI UK Student Award in 2019. I then became a Lecturer at UCL in their Geography Department, where I again wrote over 20 original R-based programming tutorials for Undergraduate and Postgraduate Courses. I now focus on teaching my fantastic colleagues at Tracking California all the ins and outs of coding, version control, and more recently "vibe coding".
 
-I contribute to [GEOG0030](https://osd.ucl.ac.uk/liveletters/GEOG0030), UCL's undergraduate module on geocomputation and spatial analysis using R.
+Below contains links to the range of tutorials and workbooks I've produced over the years. If you use these in your work, please do credit me. If you have questions, feel free to reach out!
 
-- [GEOG0030 Coursebook](https://jo-wilkin.github.io/GEOG0030-Coursebook/)
+---
 
-### R GIS Tutorials
+## Workbooks & Tutorials
 
-A collection of R tutorials covering GIS topics including geocoding, network analysis, and greenspace accessibility.
-
-- [R GIS Tutorials](https://jo-wilkin.github.io/R-GIS-Tutorials/)
-
+::: {.teaching-card}
+::: {.teaching-screenshot}
+![](img/teaching/gis-ai-manual.svg)
+:::
+::: {.teaching-details}
 ### GIS & AI Manual
+A practical guide for GIS analysts getting started with AI-assisted coding using Claude Code. Covers environment setup, working with Git, data cleaning and QA, exploratory data analysis, methodology development, and deploying R Bookdown sites and R Shiny apps via Posit Connect Cloud.
 
-A practical guide to using AI tools (including LLMs) for GIS and spatial analysis workflows.
+[View the GIS & AI Manual](https://jo-wilkin.github.io/gis_ai_manual/){.teaching-link}
+:::
+:::
 
-- [GIS AI Manual](https://jo-wilkin.github.io/gis_ai_manual/)
+::: {.teaching-card}
+::: {.teaching-screenshot}
+![](img/teaching/geog0030.svg)
+:::
+::: {.teaching-details}
+### GEOG0030 Geocomputation Coursebook
+The complete online coursebook for GEOG0030 Geocomputation at UCL, written for the 2020--2021 academic year. A full suite of R-based practicals covering spatial analysis, mapping, and geocomputation for undergraduate geographers. I no longer contribute to this module, but I'm aware the original book is still in use in the department.
+
+[View the GEOG0030 Coursebook](https://jo-wilkin.github.io/GEOG0030-Coursebook/){.teaching-link}
+:::
+:::
+
+::: {.teaching-card}
+::: {.teaching-screenshot}
+![](img/teaching/r-gis-tutorials.svg)
+:::
+::: {.teaching-details}
+### R GIS Tutorials
+A collection of standalone R tutorials I wrote for GIS topics, used across UCL's undergraduate and postgraduate programmes. Individual tutorials include:
+
+- **Geocoding with ggmap** — Batch geocoding addresses in R using the Google Maps API
+- **Greenspace Accessibility Analysis** — Measuring access to urban green spaces using network analysis
+- **OD Network Analysis with dodgr** — Origin-destination routing and shortest path analysis on street networks
+- **Network Analysis for Transport** — Applying network methods to model travel and accessibility
+- **Data for Good** — Using open data and spatial methods for social impact
+- **Programming with For Loops** — Automating repetitive GIS tasks in R
+
+[View the R GIS Tutorials](https://jo-wilkin.github.io/R-GIS-Tutorials/){.teaching-link}
+:::
+:::
+
+::: {.teaching-card}
+::: {.teaching-screenshot}
+![](img/teaching/bootcamp.svg)
+:::
+::: {.teaching-details}
+### Geography Programming Bootcamp
+The original — a from-scratch programming course teaching Geography undergraduates at the University of Southampton to code in Python, ArcPy and ArcGIS. Won the ESRI UK Student Award in 2019 (with Kate Rawlings). Designed for students with zero programming experience, covering everything from variables and loops to spatial analysis workflows.
+
+[View the Bootcamp Story Map](https://soton-uni.maps.arcgis.com/apps/Cascade/index.html?appid=181217df845045cc9ae1930005bf31b5){.teaching-link}
+
+*I'll be adding the original Bootcamp materials here soon — placeholder for now.*
+:::
+:::
