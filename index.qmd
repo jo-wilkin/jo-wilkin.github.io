@@ -1,14 +1,22 @@
 ---
 title: "Jo Wilkin"
+page-layout: full
+body-classes: home-page
 ---
 
 ::: {.profile-photo}
 ![](img/me-pinnacles.jpeg)
 :::
 
-Geographer and spatial data scientist, using Geographic Data Science "for good". Based in the San Francisco Bay Area.
+::: {.greeting}
+Hi! I'm Jo.
+:::
 
-Currently a Research Scientist at [Tracking California](https://trackingcalifornia.org/) (Public Health Institute), applying spatial analysis to public health and environmental justice across California — from dataset curation to mapping tool development.
+::: {.intro}
+You've stumbled on my website one way or another. A little about me? Well, I'm a long-term avid Geographer and Spatial Data Scientist who has spent the majority of their career figuring out how to use Geographic Data Science "For Good". For the last ten years, I've been based in the San Francisco Bay Area, enjoying everything California has to offer!
+
+I'm currently a Research Scientist at [Tracking California](https://trackingcalifornia.org/) where I use GIS, spatial analysis, and data science to help with a range of community-based issues across public health and environmental justice in California. I spend my days doing everything from dataset curation and creation in Python, to creating new tools in R Shiny. More recently, I've spent time learning the ups and downs of vibe coding with Claude Code, and have a forthcoming tutorial book that you can find on my [Teaching](teaching.qmd) page.
+:::
 
 ## Current work
 

@@ -109,20 +109,51 @@ hr {
   text-decoration: none;
 }
 
-/* ---- Profile photo: centered, modest size ---- */
+/* ---- Hide page title on home page only ---- */
+
+.home-page .quarto-title-block {
+  display: none;
+}
+
+.home-page .content {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+/* ---- Profile photo: centered ---- */
 
 .profile-photo {
   text-align: center;
-  margin: 0.5em 0 2em 0;
+  margin: 0.5em 0 1.5em 0;
 }
 
 .profile-photo img {
-  width: 160px;
-  height: 160px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 50%;
-  border: 3px solid #c05e2e;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border: none;
+  box-shadow: none;
+}
+
+/* ---- Greeting: large bold intro ---- */
+
+.greeting {
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+  font-weight: 700;
+  color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+/* ---- Intro paragraphs: centered ---- */
+
+.intro {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 2em auto;
 }
 
 /* ---- Content area: generous max-width ---- */
