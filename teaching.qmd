@@ -32,6 +32,10 @@ A practical guide for GIS analysts getting started with AI-assisted coding using
 ### GEOG0030 Geocomputation Coursebook
 The complete online coursebook for GEOG0030 Geocomputation at UCL, written for the 2020--2021 academic year. A full suite of R-based practicals covering spatial analysis, mapping, and geocomputation for undergraduate geographers. I no longer contribute to this module, but I'm aware the original book is still in use in the department.
 
+::: {.disclaimer}
+**Please note:** This content was written in 2020--2021 and is no longer maintained or updated by the author. Lecture videos no longer work and links may have expired. This content is no longer monitored or supported by UCL, should not be expected to meet current UCL teaching guidelines, and should not be treated as current UCL teaching material. UCL bears no responsibility for this archived content.
+:::
+
 [View the GEOG0030 Coursebook](https://jo-wilkin.github.io/GEOG0030-Coursebook/){.teaching-link}
 :::
 :::
@@ -42,7 +46,11 @@ The complete online coursebook for GEOG0030 Geocomputation at UCL, written for t
 :::
 ::: {.teaching-details}
 ### R GIS Tutorials
-A collection of standalone R tutorials I wrote for GIS topics, used across UCL's undergraduate and postgraduate programmes. Note: these tutorials are 5+ years old and some R code may be outdated — I hope to update them in the future.
+A collection of standalone R tutorials I wrote for GIS topics, used across UCL's undergraduate and postgraduate programmes.
+
+::: {.disclaimer}
+**Please note:** These tutorials are 5+ years old and were written during my time as a Lecturer at UCL (2020--2021). Some R code may be outdated, lecture videos no longer work, and links may have expired. This content is no longer monitored or supported by UCL, should not be expected to meet current UCL teaching guidelines, and should not be treated as current UCL teaching material. UCL bears no responsibility for this archived content. I hope to update the code in future.
+:::
 
 **Standalone tutorials:**
 
@@ -68,6 +76,12 @@ The original — a from-scratch programming course teaching Geography undergradu
 
 [View the Bootcamp Story Map](https://soton-uni.maps.arcgis.com/apps/Cascade/index.html?appid=181217df845045cc9ae1930005bf31b5){.teaching-link}
 
-*I'll be adding the original Bootcamp materials here soon — placeholder for now.*
+**Download the workbooks:**
+
+- [Day 1 Workbook](tutorials/Workbook/Working_Files/Workbook%20-%20Day%201.docx) (Word, 3.1 MB)
+- [Day 2 Workbook](tutorials/Workbook/Working_Files/Workbook%20-%20Day%202.docx) (Word, 2.0 MB)
+- [Day 3 Workbook](tutorials/Workbook/Working_Files/Workbook%20-%20Day%203.docx) (Word, 443 KB)
+- [Python Glossary](tutorials/Workbook/Working_Files/Python%20Glossary.docx) (Word, 124 KB)
+- [Bootcamp Front Page](tutorials/Workbook/Front%20Page/frontpage.pdf) (PDF)
 :::
 :::
