@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Joanna Wilkin"
+  title: "Jo Wilkin"
   navbar:
     left:
       - href: index.qmd
@@ -25,4 +25,4 @@ format:
     theme:
       - cosmo
       - styles.css
-    toc: true
+    toc: false

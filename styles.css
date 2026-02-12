@@ -30,7 +30,7 @@ h1 {
 
 /* Navbar */
 .navbar {
-  border-bottom: 2px solid #c05e2e;
+  border-bottom: none;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
 }
