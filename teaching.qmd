@@ -20,7 +20,7 @@ Below contains links to the range of tutorials and workbooks I've produced over 
 ### GIS & AI Manual
 A practical guide for GIS analysts getting started with AI-assisted coding using Claude Code. Covers environment setup, working with Git, data cleaning and QA, exploratory data analysis, methodology development, and deploying R Bookdown sites and R Shiny apps via Posit Connect Cloud.
 
-[View the GIS & AI Manual](https://jo-wilkin.github.io/gis_ai_manual/){.teaching-link}
+[View the GIS & AI Manual](https://jo-wilkin.github.io/gis-ai-manual/index.html){.teaching-link}
 :::
 :::
 
