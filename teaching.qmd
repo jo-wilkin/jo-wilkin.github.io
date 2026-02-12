@@ -42,16 +42,19 @@ The complete online coursebook for GEOG0030 Geocomputation at UCL, written for t
 :::
 ::: {.teaching-details}
 ### R GIS Tutorials
-A collection of standalone R tutorials I wrote for GIS topics, used across UCL's undergraduate and postgraduate programmes. Individual tutorials include:
+A collection of standalone R tutorials I wrote for GIS topics, used across UCL's undergraduate and postgraduate programmes. Note: these tutorials are 5+ years old and some R code may be outdated — I hope to update them in the future.
 
-- **Geocoding with ggmap** — Batch geocoding addresses in R using the Google Maps API
-- **Greenspace Accessibility Analysis** — Measuring access to urban green spaces using network analysis
-- **OD Network Analysis with dodgr** — Origin-destination routing and shortest path analysis on street networks
-- **Network Analysis for Transport** — Applying network methods to model travel and accessibility
-- **Data for Good** — Using open data and spatial methods for social impact
-- **Programming with For Loops** — Automating repetitive GIS tasks in R
+**Standalone tutorials:**
 
-[View the R GIS Tutorials](https://jo-wilkin.github.io/R-GIS-Tutorials/){.teaching-link}
+- [Geocoding with ggmap](tutorials/Geocoding_with_ggmap.html){.teaching-link} — Batch geocoding addresses in R using the Google Maps API
+- [OD Network Analysis with dodgr](tutorials/OD_network_analysis_with_dodgr.html){.teaching-link} — Origin-destination routing and shortest path analysis on street networks
+- [Greenspace Accessibility Analysis](tutorials/greenspace_access.html){.teaching-link} — Measuring access to urban green spaces using network analysis
+
+**Principles of Spatial Analysis course tutorials:**
+
+- [W8: Data for Good](tutorials/w8-data-for-good.html){.teaching-link} — Using open data and spatial methods for social impact
+- [W8 Extra: Programming with For Loops](tutorials/W08-Extra-For-Loop.html){.teaching-link} — Automating repetitive GIS tasks in R (follow-on to W8)
+- [W10: Network Analysis for Transport](tutorials/w10-network-analysis-OD.html){.teaching-link} — Origin-destination network analysis for transport modelling
 :::
 :::
 
