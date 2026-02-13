@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280">
+  <rect width="440" height="280" fill="#f4efe8" rx="4"/>
+  <text x="220" y="130" text-anchor="middle" font-family="Source Sans Pro, sans-serif" font-size="16" fill="#999">Screenshot</text>
+  <text x="220" y="155" text-anchor="middle" font-family="Source Sans Pro, sans-serif" font-size="14" fill="#bbb">Traffic Data</text>
+</svg>

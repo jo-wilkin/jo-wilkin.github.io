@@ -18,34 +18,42 @@ You've stumbled on my website one way or another. A little about me? Well, I'm a
 I'm currently a Research Scientist at [Tracking California](https://trackingcalifornia.org/) where I use GIS, spatial analysis, and data science to help with a range of community-based issues across public health and environmental justice in California. I spend my days doing everything from dataset curation and creation in Python, to creating new tools in R Shiny. More recently, I've spent time learning the ups and downs of vibe coding with Claude Code, and have a forthcoming tutorial book that you can find on my [Teaching](teaching.qmd) page.
 :::
 
-## Current work
+## What I'm up to right now
 
-- Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python
-- R Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer
-- Household-level network Origin-Destination analysis for healthcare accessibility modelling
+::: {.teaching-card}
+::: {.teaching-screenshot}
+![](img/projects/lithium-valley.svg)
+:::
+::: {.teaching-details}
+### Lithium Valley Data Explorer
 
-## Previously
+*Description coming soon.*
 
-Lecturer in Geographic and Social Data Science at UCL, teaching spatial analysis, geocomputation, and the ethics and politics of data science. Developed and led three modules across undergraduate and postgraduate programmes.
+:::
+:::
 
-PhD at the University of Southampton on creating geospatial datasets from Call Detail Records for humanitarian applications, mapping social networks and community resilience. Research with the WorldPop group and Flowminder Foundation. Presented at NetMob (Oxford) and Geo4Dev (UC Berkeley).
+::: {.teaching-card}
+::: {.teaching-screenshot}
+![](img/projects/traffic-data.svg)
+:::
+::: {.teaching-details}
+### Traffic Data
 
-Helped launch [The Missing Maps Project](https://www.missingmaps.org/) in the UK, leading mapathons and developing training material still in use today. Presented at the Royal Geographical Society and Oxford Internet Institute. Creator of an award-winning Geography Programming Bootcamp teaching Python for GIS research.
+*Description coming soon.*
 
-## Experience
+:::
+:::
 
-**Research Scientist (Geospatial)** | Tracking California, Public Health Institute | 2021--present
+::: {.teaching-card}
+::: {.teaching-screenshot}
+![](img/projects/gis-ai-manual.svg)
+:::
+::: {.teaching-details}
+### GIS & AI Manual
 
-**Lecturer in Social & Geographic Data Science** | UCL | 2020--2021
+*Description coming soon.*
 
-**Teaching Fellow** | UCL | 2020
+:::
+:::
 
-**PhD Researcher** | University of Southampton | 2015--2020
-
-## Education
-
-**PhD, Geographic Information Science** | University of Southampton | 2015--2019
-
-**MSc, Geographical Information Management** | Cranfield University | 2012--2013
-
-**BA, Geography (First Class)** | University of Oxford | 2008--2011
+Beyond these projects, I'm also working on **healthcare accessibility modelling in California** --- building household-level network Origin-Destination models to understand how communities access health services --- and on **detection of mobile homes** using geospatial methods to improve population and housing estimates across the state.

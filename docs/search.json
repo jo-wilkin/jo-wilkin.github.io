@@ -7,25 +7,11 @@
     "text": "Welcome\n\n\n\n\n\n\n\n\n\n\n\nFeb 12, 2026\n\n\nJoanna Wilkin\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Welcome to my new website! I’ve rebuilt this site using Quarto — a modern open-source scientific publishing system. I’ll be using this blog to share updates on my research, teaching, and thoughts on spatial data science.\nStay tuned for more posts."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "If you can’t do, teach right? Not in my case. I have a huge passion for teaching. I’ve taught in some way or another for the last two decades. Most recently, since teaching myself to code during my PhD, I’ve tried to share this knowledge with my fellow Geographers, GISers, and more recently Public Healthers in a more non-technical, learner-focused friendly approach.\nIt all started off with a Geography Programming Bootcamp that I wrote from scratch teaching Geography Undergraduates at the University of Southampton to code in Python, ArcPy and ArcGIS and for which I (and my awesome teammate Kate Rawlings) won the ESRI UK Student Award in 2019. I then became a Lecturer at UCL in their Geography Department, where I again wrote over 20 original R-based programming tutorials for Undergraduate and Postgraduate Courses. I now focus on teaching my fantastic colleagues at Tracking California all the ins and outs of coding, version control, and more recently “vibe coding”.\nBelow contains links to the range of tutorials and workbooks I’ve produced over the years. If you use these in your work, please do credit me. If you have questions, feel free to reach out!"
-  },
-  {
-    "objectID": "teaching.html#workbooks-tutorials",
-    "href": "teaching.html#workbooks-tutorials",
-    "title": "Teaching",
-    "section": "Workbooks & Tutorials",
-    "text": "Workbooks & Tutorials\n\n\n\n\n\nGIS & AI Manual\nA practical guide for GIS analysts getting started with AI-assisted coding using Claude Code. Covers environment setup, working with Git, data cleaning and QA, exploratory data analysis, methodology development, and deploying R Bookdown sites and R Shiny apps via Posit Connect Cloud.\nView the GIS & AI Manual\n\n\n\n\n\n\n\nGEOG0030 Geocomputation Coursebook\nThe complete online coursebook for GEOG0030 Geocomputation at UCL, written for the 2020–2021 academic year. A full suite of R-based practicals covering spatial analysis, mapping, and geocomputation for undergraduate geographers. I no longer contribute to this module, but I’m aware the original book is still in use in the department.\n\nPlease note: This content was written in 2020–2021 and is no longer maintained or updated by the author. Lecture videos no longer work and links may have expired. This content is no longer monitored or supported by UCL, should not be expected to meet current UCL teaching guidelines, and should not be treated as current UCL teaching material. UCL bears no responsibility for this archived content.\n\nView the GEOG0030 Coursebook\n\n\n\n\n\n\n\nR GIS Tutorials\nA collection of standalone R tutorials I wrote for GIS topics, used across UCL’s undergraduate and postgraduate programmes.\n\nPlease note: These tutorials are 5+ years old and were written during my time as a Lecturer at UCL (2020–2021). Some R code may be outdated, lecture videos no longer work, and links may have expired. This content is no longer monitored or supported by UCL, should not be expected to meet current UCL teaching guidelines, and should not be treated as current UCL teaching material. UCL bears no responsibility for this archived content. I hope to update the code in future.\n\nStandalone tutorials:\n\nGeocoding with ggmap — Batch geocoding addresses in R using the Google Maps API\nOD Network Analysis with dodgr — Origin-destination routing and shortest path analysis on street networks\nGreenspace Accessibility Analysis — Measuring access to urban green spaces using network analysis\n\nPrinciples of Spatial Analysis course tutorials:\n\nW8: Data for Good — Using open data and spatial methods for social impact\nW8 Extra: Programming with For Loops — Automating repetitive GIS tasks in R (follow-on to W8)\nW10: Network Analysis for Transport — Origin-destination network analysis for transport modelling\n\n\n\n\n\n\n\n\nGeography Programming Bootcamp\nThe original — a from-scratch programming course teaching Geography undergraduates at the University of Southampton to code in Python, ArcPy and ArcGIS. Won the ESRI UK Student Award in 2019 (with Kate Rawlings). Designed for students with zero programming experience, covering everything from variables and loops to spatial analysis workflows.\nView the Bootcamp Story Map\nDownload the workbooks:\n\nDay 1 Workbook (Word, 3.1 MB)\nDay 2 Workbook (Word, 2.0 MB)\nDay 3 Workbook (Word, 443 KB)\nPython Glossary (Word, 124 KB)\nBootcamp Front Page (PDF)"
+    "objectID": "index.html#what-im-up-to-right-now",
+    "href": "index.html#what-im-up-to-right-now",
+    "title": "Jo Wilkin",
+    "section": "What I’m up to right now",
+    "text": "What I’m up to right now\n\n\n\n\n\nLithium Valley Data Explorer\nDescription coming soon.\n\n\n\n\n\n\n\nTraffic Data\nDescription coming soon.\n\n\n\n\n\n\n\nGIS & AI Manual\nDescription coming soon.\n\n\nBeyond these projects, I’m also working on healthcare accessibility modelling in California — building household-level network Origin-Destination models to understand how communities access health services — and on detection of mobile homes using geospatial methods to improve population and housing estimates across the state."
   },
   {
     "objectID": "research.html",
@@ -49,30 +35,58 @@
     "text": "Publications\nComing soon."
   },
   {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Jo Wilkin",
-    "section": "Current work",
-    "text": "Current work\n\nStatewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python\nR Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer\nHousehold-level network Origin-Destination analysis for healthcare accessibility modelling"
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "If you can’t do, teach right? Not in my case. I have a huge passion for teaching. I’ve taught in some way or another for the last two decades. Most recently, since teaching myself to code during my PhD, I’ve tried to share this knowledge with my fellow Geographers, GISers, and more recently Public Healthers in a more non-technical, learner-focused friendly approach.\nIt all started off with a Geography Programming Bootcamp that I wrote from scratch teaching Geography Undergraduates at the University of Southampton to code in Python, ArcPy and ArcGIS and for which I (and my awesome teammate Kate Rawlings) won the ESRI UK Student Award in 2019. I then became a Lecturer at UCL in their Geography Department, where I again wrote over 20 original R-based programming tutorials for Undergraduate and Postgraduate Courses. I now focus on teaching my fantastic colleagues at Tracking California all the ins and outs of coding, version control, and more recently “vibe coding”.\nBelow contains links to the range of tutorials and workbooks I’ve produced over the years. If you use these in your work, please do credit me. If you have questions, feel free to reach out!"
   },
   {
-    "objectID": "index.html#previously",
-    "href": "index.html#previously",
-    "title": "Jo Wilkin",
+    "objectID": "teaching.html#workbooks-tutorials",
+    "href": "teaching.html#workbooks-tutorials",
+    "title": "Teaching",
+    "section": "Workbooks & Tutorials",
+    "text": "Workbooks & Tutorials\n\n\n\n\n\nGIS & AI Manual\nA practical guide for GIS analysts getting started with AI-assisted coding using Claude Code. Covers environment setup, working with Git, data cleaning and QA, exploratory data analysis, methodology development, and deploying R Bookdown sites and R Shiny apps via Posit Connect Cloud.\nView the GIS & AI Manual\n\n\n\n\n\n\n\nGEOG0030 Geocomputation Coursebook\nThe complete online coursebook for GEOG0030 Geocomputation at UCL, written for the 2020–2021 academic year. A full suite of R-based practicals covering spatial analysis, mapping, and geocomputation for undergraduate geographers. I no longer contribute to this module, but I’m aware the original book is still in use in the department.\n\nPlease note: This content was written in 2020–2021 and is no longer maintained or updated by the author. Lecture videos no longer work and links may have expired. This content is no longer monitored or supported by UCL, should not be expected to meet current UCL teaching guidelines, and should not be treated as current UCL teaching material. UCL bears no responsibility for this archived content.\n\nView the GEOG0030 Coursebook\n\n\n\n\n\n\n\nR GIS Tutorials\nA collection of standalone R tutorials I wrote for GIS topics, used across UCL’s undergraduate and postgraduate programmes.\n\nPlease note: These tutorials are 5+ years old and were written during my time as a Lecturer at UCL (2020–2021). Some R code may be outdated, lecture videos no longer work, and links may have expired. This content is no longer monitored or supported by UCL, should not be expected to meet current UCL teaching guidelines, and should not be treated as current UCL teaching material. UCL bears no responsibility for this archived content. I hope to update the code in future.\n\nStandalone tutorials:\n\nGeocoding with ggmap — Batch geocoding addresses in R using the Google Maps API\nOD Network Analysis with dodgr — Origin-destination routing and shortest path analysis on street networks\nGreenspace Accessibility Analysis — Measuring access to urban green spaces using network analysis\n\nPrinciples of Spatial Analysis course tutorials:\n\nW8: Data for Good — Using open data and spatial methods for social impact\nW8 Extra: Programming with For Loops — Automating repetitive GIS tasks in R (follow-on to W8)\nW10: Network Analysis for Transport — Origin-destination network analysis for transport modelling\n\n\n\n\n\n\n\n\nGeography Programming Bootcamp\nThe original — a from-scratch programming course teaching Geography undergraduates at the University of Southampton to code in Python, ArcPy and ArcGIS. Won the ESRI UK Student Award in 2019 (with Kate Rawlings). Designed for students with zero programming experience, covering everything from variables and loops to spatial analysis workflows.\nView the Bootcamp Story Map\nDownload the workbooks:\n\nDay 1 Workbook (Word, 3.1 MB)\nDay 2 Workbook (Word, 2.0 MB)\nDay 3 Workbook (Word, 443 KB)\nPython Glossary (Word, 124 KB)\nBootcamp Front Page (PDF)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to my new website! I’ve rebuilt this site using Quarto — a modern open-source scientific publishing system. I’ll be using this blog to share updates on my research, teaching, and thoughts on spatial data science.\nStay tuned for more posts."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "C.V.",
+    "section": "",
+    "text": "Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python\nR Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer\nHousehold-level network Origin-Destination analysis for healthcare accessibility modelling"
+  },
+  {
+    "objectID": "cv.html#current-work",
+    "href": "cv.html#current-work",
+    "title": "C.V.",
+    "section": "",
+    "text": "Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python\nR Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer\nHousehold-level network Origin-Destination analysis for healthcare accessibility modelling"
+  },
+  {
+    "objectID": "cv.html#previously",
+    "href": "cv.html#previously",
+    "title": "C.V.",
     "section": "Previously",
     "text": "Previously\nLecturer in Geographic and Social Data Science at UCL, teaching spatial analysis, geocomputation, and the ethics and politics of data science. Developed and led three modules across undergraduate and postgraduate programmes.\nPhD at the University of Southampton on creating geospatial datasets from Call Detail Records for humanitarian applications, mapping social networks and community resilience. Research with the WorldPop group and Flowminder Foundation. Presented at NetMob (Oxford) and Geo4Dev (UC Berkeley).\nHelped launch The Missing Maps Project in the UK, leading mapathons and developing training material still in use today. Presented at the Royal Geographical Society and Oxford Internet Institute. Creator of an award-winning Geography Programming Bootcamp teaching Python for GIS research."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Jo Wilkin",
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "C.V.",
     "section": "Experience",
     "text": "Experience\nResearch Scientist (Geospatial) | Tracking California, Public Health Institute | 2021–present\nLecturer in Social & Geographic Data Science | UCL | 2020–2021\nTeaching Fellow | UCL | 2020\nPhD Researcher | University of Southampton | 2015–2020"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Jo Wilkin",
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "C.V.",
     "section": "Education",
     "text": "Education\nPhD, Geographic Information Science | University of Southampton | 2015–2019\nMSc, Geographical Information Management | Cranfield University | 2012–2013\nBA, Geography (First Class) | University of Oxford | 2008–2011"
   }
