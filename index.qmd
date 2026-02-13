@@ -18,7 +18,9 @@ You've stumbled on my website one way or another. A little about me? Well, I'm a
 I'm currently a Research Scientist at [Tracking California](https://trackingcalifornia.org/) where I use GIS, spatial analysis, and data science to help with a range of community-based issues across public health and environmental justice in California. I spend my days doing everything from dataset curation and creation in Python, to creating new tools in R Shiny. More recently, I've spent time learning the ups and downs of vibe coding with Claude Code, and have a forthcoming tutorial book that you can find on my [Teaching](teaching.qmd) page.
 :::
 
+::: {.section-heading}
 ## What I'm up to right now
+:::
 
 ::: {.teaching-card}
 ::: {.teaching-screenshot}
@@ -26,9 +28,7 @@ I'm currently a Research Scientist at [Tracking California](https://trackingcali
 :::
 ::: {.teaching-details}
 ### Lithium Valley Data Explorer
-
 *Description coming soon.*
-
 :::
 :::
 
@@ -38,9 +38,7 @@ I'm currently a Research Scientist at [Tracking California](https://trackingcali
 :::
 ::: {.teaching-details}
 ### Traffic Data
-
 *Description coming soon.*
-
 :::
 :::
 
@@ -50,10 +48,10 @@ I'm currently a Research Scientist at [Tracking California](https://trackingcali
 :::
 ::: {.teaching-details}
 ### GIS & AI Manual
-
 *Description coming soon.*
-
 :::
 :::
 
+::: {.closing-text}
 Beyond these projects, I'm also working on **healthcare accessibility modelling in California** --- building household-level network Origin-Destination models to understand how communities access health services --- and on **detection of mobile homes** using geospatial methods to improve population and housing estimates across the state.
+:::

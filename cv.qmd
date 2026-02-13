@@ -2,29 +2,34 @@
 title: "C.V."
 ---
 
-## Current work
-
-- Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python
-- R Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer
-- Household-level network Origin-Destination analysis for healthcare accessibility modelling
-
-## Previously
-
-Lecturer in Geographic and Social Data Science at UCL, teaching spatial analysis, geocomputation, and the ethics and politics of data science. Developed and led three modules across undergraduate and postgraduate programmes.
-
-PhD at the University of Southampton on creating geospatial datasets from Call Detail Records for humanitarian applications, mapping social networks and community resilience. Research with the WorldPop group and Flowminder Foundation. Presented at NetMob (Oxford) and Geo4Dev (UC Berkeley).
-
-Helped launch [The Missing Maps Project](https://www.missingmaps.org/) in the UK, leading mapathons and developing training material still in use today. Presented at the Royal Geographical Society and Oxford Internet Institute. Creator of an award-winning Geography Programming Bootcamp teaching Python for GIS research.
-
 ## Experience
 
 **Research Scientist (Geospatial)** | Tracking California, Public Health Institute | 2021--present
 
+- Project Lead on the development of a statewide Traffic Dataset and Querying Tool, enabling external users to access updated traffic volumes at any location across California
+- Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python
+- Internal and external data visualisations and dashboards using R Shiny, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer
+- Household-level network Origin-Destination analysis for healthcare accessibility modelling
+- Dataset curation, creation, and spatial analysis for public health and environmental justice
+
 **Lecturer in Social & Geographic Data Science** | UCL | 2020--2021
+
+- Developed and led three modules: Spatial Analysis, Geocomputation, and Data, Politics and Society
+- Taught GIS programming using R, Python, and QGIS across undergraduate and postgraduate programmes
+- Created over 20 original R-based programming tutorials and high-quality lecture and practical material
+- Teaching focused on the ethics and politics of (geo-) data science, including the use of large-scale individual-level datasets
 
 **Teaching Fellow** | UCL | 2020
 
+- Supported delivery of quantitative and geospatial analysis courses across the Geography department
+
 **PhD Researcher** | University of Southampton | 2015--2020
+
+- Doctoral research with the WorldPop group and Flowminder Foundation on creating geospatial datasets from Call Detail Records for humanitarian applications
+- Developed novel methodologies to map geographical communities using CDRs and created an index of social connectivity for disaster resilience estimation
+- Thesis: *Social Connectivity and Disaster Resilience: An opportunity for improved mapping and measurement using call detail records*
+- Supervised by Professor Andrew Tatem and Dr Eloise Biggs
+- Presented at NetMob (Oxford) and Geo4Dev (UC Berkeley)
 
 ## Education
 
@@ -33,3 +38,17 @@ Helped launch [The Missing Maps Project](https://www.missingmaps.org/) in the UK
 **MSc, Geographical Information Management** | Cranfield University | 2012--2013
 
 **BA, Geography (First Class)** | University of Oxford | 2008--2011
+
+## Selected Activities
+
+- Co-founded [The Missing Maps Project](https://www.missingmaps.org/) launch in the UK, leading mapathons and developing training material still in use today
+- Presented at the Royal Geographical Society and Oxford Internet Institute
+- Creator of an award-winning Geography Programming Bootcamp teaching Python for GIS research (ESRI UK Student Award 2019, with Kate Rawlings)
+
+## Research Interests
+
+- Transport and accessibility modelling
+- Spatial data science and GIS methods
+- Network analysis of urban systems
+- Disaster risk reduction and community resilience
+- Social and spatial networks

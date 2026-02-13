@@ -213,6 +213,18 @@ strong {
   color: #1a1a1a;
 }
 
+/* ---- Home page: centered section heading & closing text ---- */
+
+.section-heading {
+  text-align: center;
+}
+
+.closing-text {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto 2em auto;
+}
+
 /* ---- Teaching page: screenshot + description cards ---- */
 
 .teaching-card {

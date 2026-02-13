@@ -11,7 +11,7 @@
     "href": "index.html#what-im-up-to-right-now",
     "title": "Jo Wilkin",
     "section": "What I’m up to right now",
-    "text": "What I’m up to right now\n\n\n\n\n\nLithium Valley Data Explorer\nDescription coming soon.\n\n\n\n\n\n\n\nTraffic Data\nDescription coming soon.\n\n\n\n\n\n\n\nGIS & AI Manual\nDescription coming soon.\n\n\nBeyond these projects, I’m also working on healthcare accessibility modelling in California — building household-level network Origin-Destination models to understand how communities access health services — and on detection of mobile homes using geospatial methods to improve population and housing estimates across the state."
+    "text": "What I’m up to right now"
   },
   {
     "objectID": "research.html",
@@ -60,28 +60,14 @@
     "href": "cv.html",
     "title": "C.V.",
     "section": "",
-    "text": "Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python\nR Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer\nHousehold-level network Origin-Destination analysis for healthcare accessibility modelling"
-  },
-  {
-    "objectID": "cv.html#current-work",
-    "href": "cv.html#current-work",
-    "title": "C.V.",
-    "section": "",
-    "text": "Statewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python\nR Shiny apps for environmental justice, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer\nHousehold-level network Origin-Destination analysis for healthcare accessibility modelling"
-  },
-  {
-    "objectID": "cv.html#previously",
-    "href": "cv.html#previously",
-    "title": "C.V.",
-    "section": "Previously",
-    "text": "Previously\nLecturer in Geographic and Social Data Science at UCL, teaching spatial analysis, geocomputation, and the ethics and politics of data science. Developed and led three modules across undergraduate and postgraduate programmes.\nPhD at the University of Southampton on creating geospatial datasets from Call Detail Records for humanitarian applications, mapping social networks and community resilience. Research with the WorldPop group and Flowminder Foundation. Presented at NetMob (Oxford) and Geo4Dev (UC Berkeley).\nHelped launch The Missing Maps Project in the UK, leading mapathons and developing training material still in use today. Presented at the Royal Geographical Society and Oxford Internet Institute. Creator of an award-winning Geography Programming Bootcamp teaching Python for GIS research."
+    "text": "Research Scientist (Geospatial) | Tracking California, Public Health Institute | 2021–present\n\nProject Lead on the development of a statewide Traffic Dataset and Querying Tool, enabling external users to access updated traffic volumes at any location across California\nStatewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python\nInternal and external data visualisations and dashboards using R Shiny, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer\nHousehold-level network Origin-Destination analysis for healthcare accessibility modelling\nDataset curation, creation, and spatial analysis for public health and environmental justice\n\nLecturer in Social & Geographic Data Science | UCL | 2020–2021\n\nDeveloped and led three modules: Spatial Analysis, Geocomputation, and Data, Politics and Society\nTaught GIS programming using R, Python, and QGIS across undergraduate and postgraduate programmes\nCreated over 20 original R-based programming tutorials and high-quality lecture and practical material\nTeaching focused on the ethics and politics of (geo-) data science, including the use of large-scale individual-level datasets\n\nTeaching Fellow | UCL | 2020\n\nSupported delivery of quantitative and geospatial analysis courses across the Geography department\n\nPhD Researcher | University of Southampton | 2015–2020\n\nDoctoral research with the WorldPop group and Flowminder Foundation on creating geospatial datasets from Call Detail Records for humanitarian applications\nDeveloped novel methodologies to map geographical communities using CDRs and created an index of social connectivity for disaster resilience estimation\nThesis: Social Connectivity and Disaster Resilience: An opportunity for improved mapping and measurement using call detail records\nSupervised by Professor Andrew Tatem and Dr Eloise Biggs\nPresented at NetMob (Oxford) and Geo4Dev (UC Berkeley)"
   },
   {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
     "title": "C.V.",
-    "section": "Experience",
-    "text": "Experience\nResearch Scientist (Geospatial) | Tracking California, Public Health Institute | 2021–present\nLecturer in Social & Geographic Data Science | UCL | 2020–2021\nTeaching Fellow | UCL | 2020\nPhD Researcher | University of Southampton | 2015–2020"
+    "section": "",
+    "text": "Research Scientist (Geospatial) | Tracking California, Public Health Institute | 2021–present\n\nProject Lead on the development of a statewide Traffic Dataset and Querying Tool, enabling external users to access updated traffic volumes at any location across California\nStatewide road network dataset for Vehicle Miles Traveled in California, with bespoke interpolation methodology in Python\nInternal and external data visualisations and dashboards using R Shiny, including the Lithium Valley Data Explorer and a Community Air Quality Monitoring Data Explorer\nHousehold-level network Origin-Destination analysis for healthcare accessibility modelling\nDataset curation, creation, and spatial analysis for public health and environmental justice\n\nLecturer in Social & Geographic Data Science | UCL | 2020–2021\n\nDeveloped and led three modules: Spatial Analysis, Geocomputation, and Data, Politics and Society\nTaught GIS programming using R, Python, and QGIS across undergraduate and postgraduate programmes\nCreated over 20 original R-based programming tutorials and high-quality lecture and practical material\nTeaching focused on the ethics and politics of (geo-) data science, including the use of large-scale individual-level datasets\n\nTeaching Fellow | UCL | 2020\n\nSupported delivery of quantitative and geospatial analysis courses across the Geography department\n\nPhD Researcher | University of Southampton | 2015–2020\n\nDoctoral research with the WorldPop group and Flowminder Foundation on creating geospatial datasets from Call Detail Records for humanitarian applications\nDeveloped novel methodologies to map geographical communities using CDRs and created an index of social connectivity for disaster resilience estimation\nThesis: Social Connectivity and Disaster Resilience: An opportunity for improved mapping and measurement using call detail records\nSupervised by Professor Andrew Tatem and Dr Eloise Biggs\nPresented at NetMob (Oxford) and Geo4Dev (UC Berkeley)"
   },
   {
     "objectID": "cv.html#education",
@@ -89,5 +75,19 @@
     "title": "C.V.",
     "section": "Education",
     "text": "Education\nPhD, Geographic Information Science | University of Southampton | 2015–2019\nMSc, Geographical Information Management | Cranfield University | 2012–2013\nBA, Geography (First Class) | University of Oxford | 2008–2011"
+  },
+  {
+    "objectID": "cv.html#selected-activities",
+    "href": "cv.html#selected-activities",
+    "title": "C.V.",
+    "section": "Selected Activities",
+    "text": "Selected Activities\n\nCo-founded The Missing Maps Project launch in the UK, leading mapathons and developing training material still in use today\nPresented at the Royal Geographical Society and Oxford Internet Institute\nCreator of an award-winning Geography Programming Bootcamp teaching Python for GIS research (ESRI UK Student Award 2019, with Kate Rawlings)"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "C.V.",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nTransport and accessibility modelling\nSpatial data science and GIS methods\nNetwork analysis of urban systems\nDisaster risk reduction and community resilience\nSocial and spatial networks"
   }
 ]
